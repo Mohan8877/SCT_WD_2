@@ -40,10 +40,10 @@ Reset
 
 🛠️ Future Enhancements
 
-Export lap times to a file
-Add sound alerts or vibrations
-Theme customization (light/dark mode)
-Keyboard shortcut support
+1.Export lap times to a file
+2.Add sound alerts or vibrations
+3.Theme customization (light/dark mode)
+4.Keyboard shortcut support
 
 👨‍💻 Developed By
 
