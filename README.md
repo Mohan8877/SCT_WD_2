@@ -1,52 +1,39 @@
-⏱️ Stopwatch Web App – SCT_WD_2
-Welcome to the Stopwatch Web Application developed under SkillCraft Technology!
-This project (SCT_WD_2) is a responsive, interactive stopwatch built using HTML, CSS, and JavaScript — ideal for timing tasks, workouts, or coding challenges.
+# SCT_WD_2A - Stopwatch Web Application | SkillCraft Technology
 
-🚀 Features
+This project is a clean and fully functional **Stopwatch Web App** built using **HTML**, **CSS**, and **JavaScript**. It includes essential stopwatch features like start, pause, resume, reset, and lap timing, all within an elegant user interface.
 
-⏯️ Start / Pause / Resume – Flexible control of stopwatch timing
-🔁 Reset – Clear the timer and start fresh
-🏁 Lap Functionality – Record multiple lap times for accurate session tracking
-🕒 Millisecond Precision – Tracks time in HH:MM:SS:MS format
-📱 Responsive Design – Works smoothly on desktop and mobile
-⚙️ Smooth UI – Minimalistic design with intuitive controls
+## ⏱️ Features
 
-📂 Technologies Used
+- ▶️ Start / ⏸️ Pause / 🔄 Resume / 🛑 Reset
+- 🏁 Lap timing to record multiple intervals
+- 📲 Fully responsive design for all screen sizes
+- 🎨 Gradient background and sleek timer interface
+- ⚡ Real-time timer display with millisecond precision
+- 🧠 Smooth button transitions and interactive layout
 
-HTML – Structure and layout
-CSS – Styling and responsiveness
-JavaScript – Logic for stopwatch, lap, pause, and resume features
+## 🛠️ Technologies Used
 
-🎯 How to Use
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6+)**
 
-Clone the repository:
+## 📁 File Info
 
-git clone: https://github.com/Mohan8877/SCT_WD_2.git
-Open the project folder and run index.html in your browser:
+- **File Name:** `SCT_WD_2A`
+- **Developer:** [Mohan8877](https://github.com/Mohan8877)
+- **Purpose:** A stopwatch app showcasing interactive real-time functionality and a user-friendly design, created as part of SkillCraft Technology.
 
+## 🚀 How to Use
 
+1. Download or clone the repository.
+2. Open `index.html` in your preferred browser.
+3. Use the buttons to start, pause, resume, or reset the stopwatch.
+4. Click “Lap” to record the current time without stopping the timer.
 
-Use the buttons to control the stopwatch:
-Start
-Pause
-Resume
-Lap
-Reset
+## 📌 Note
 
-📸 Preview
+Ideal for productivity tools, time tracking, or embedding in larger web projects.
 
-1.   image stopwatch.png
-2.   image stopwatch1.png
+---
 
-🛠️ Future Enhancements
-
-1.Export lap times to a file
-2.Add sound alerts or vibrations
-3.Theme customization (light/dark mode)
-4.Keyboard shortcut support
-
-👨‍💻 Developed By
-
-SkillCraft Technology
-Project by Mohan8877
-For skill-building and web development 
+🕒 Built by **Mohan8877** | SkillCraft Technology
